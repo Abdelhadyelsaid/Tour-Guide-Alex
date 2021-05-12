@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="tab_text_1">Historical</string>
+    <string name="tab_text_2">Restaurants</string>
+    <string name="tab_text_3">Parks</string>
+    <string name="tab_text_4">Places</string>
+    <string name="Qaitbay_Citadel">Qaitbay Citadel</string>
+    <string name="Qaitbay_Citadel_Des">This castle is located at the end of Pharos Island in the far west of Alexandria, and was built on the site of the ancient lighthouse of Alexandria.</string>
+    <string name="Morsy_Mosque">Morsy Abo Al Abbas Mosque</string>
+    <string name="Morsy_Mosque_Des">One of the oldest and most famous mosques built in Alexandria in Egypt, as it is characterized by its distinctive domes, which is one of the most important features of the Abu al-Abbas area in the Bahri area of the city.</string>
+    <string name="Alexandria_Zoo">Alexandria Zoo</string>
+    <string name="Alexandria_Zoo_Des">Alexandria Zoo is the second largest zoo in Egypt after Giza Zoo. It is located in the Nozha district in Alexandria, near Antoniadis Gardens and Smouha neighborhood, and it belongs to the central administration of zoos.</string>
+    <string name="Montaza">Montaza</string>
+    <string name="Montaza_Des">Montazah Palace is one of the royal palaces in Egypt. It was built by Khedive Abbas Hilmi II in 1892 AD. In Alexandria. The palace is located inside gardens known as "the park gardens".</string>
+    <string name="Azza">Gilatty Azza</string>
+    <string name="Azza_Des">It is a famous shop selling Ice cream in Alexandria, It has a the best Ice cream ever !</string>
+    <string name="falah">Falah Kebda</string>
+    <string name="falah_Des">It is the most famous restaurant in Alexandria selling kebda sandwiches.</string>
+    <string name="Sanjofany">Sanjofany</string>
+    <string name="Sanjofany_Des">Overlooking the Mediterranean Sea, this comfortable hotel and Restaurant is housed in a 1938 building with views of the Stanley Bridge, It is 2 km from the Royal Jewelry Museum.</string>
+    <string name="San">San Stefano Mall</string>
+    <string name="San_Des">"The San Stefano neighborhood is one of the high-end neighborhoods in the city of Alexandria in Egypt, and it follows the Sharq district in the city. Currently in the neighborhood there is one of the largest shopping centers in the city, which is the San Stefano Grand Plaza, which was built on the same site as the old San Stefano Hotel, which witnessed many historical events.</string>
+    <string name="stanly">Stanly Bridge</string>
+    <string name="stanly_Des">It is a bridge built to improve traffic flow on the Alexandria Corniche in the Stanley area of East Alexandria. The bridge is implemented by the Arab Contractors Company. The bridge is distinguished by the beauty of its design, as it resembles the designs of royal palaces in its appearance, and has lighting that distinguishes it and has contributed to the upgrading of the region.</string>
+</resources>
